@@ -44,3 +44,14 @@ To explore the Titanic dataset EDA report:
 
 5. Interact with the visualizations and explore the dataset to gain insights.
 
+## POWER BI REPORT:
+
+![image](https://github.com/sardanaGagan/EDA/assets/147447575/992a2863-2357-4c43-aedd-420856c7f826)
+
+![image](https://github.com/sardanaGagan/EDA/assets/147447575/26b969b2-b49f-47e5-b5c2-0fa812b6b91d)
+
+![image](https://github.com/sardanaGagan/EDA/assets/147447575/4e71ac9e-627d-442e-a06b-f72c0035bb90)
+
+
+
+
