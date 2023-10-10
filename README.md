@@ -36,7 +36,7 @@ To explore the Titanic dataset EDA report:
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/), if not already installed.
 
-2. Download the Titanic dataset (CSV format).
+2. Download the Titanic dataset (xls format).
 
 3. Open the Power BI Desktop application.
 
